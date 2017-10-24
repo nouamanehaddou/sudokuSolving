@@ -1,0 +1,18 @@
+/* CSS file for styling */
+
+.sudoku{
+	 -fx-border-color : black ;
+	 -fx-background-color: white;
+	 -fx-focus-color: transparent;
+	 -fx-faint-focus-color: transparent;
+	 -fx-border-width : 0.5px 0.5px 0.5px 0.5px; 
+}
+
+
+.initialisationText{
+	-fx-font-weight: bold;
+	-fx-font-size: 15px;
+	-fx-text-fill: blue;
+}
+
+
