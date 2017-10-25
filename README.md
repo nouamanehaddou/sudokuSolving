@@ -1,4 +1,4 @@
-<h1> Sudoku resoving using AI algorithms </h1>
+<h1> Sudoku solving using AI algorithms </h1>
 An application developed with Java and JavaFX for UI, that solves the sudoku 9*9 puzzle using artificial intelligence algortihms especially :
 <ul>
   <li> Backtracking. </li>
